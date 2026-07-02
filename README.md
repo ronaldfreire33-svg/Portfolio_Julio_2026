@@ -5,7 +5,7 @@ Este repositorio contiene scripts de SQL enfocados en la resolución de problema
 ## 📁 Contenido del Proyecto
 
 *   **[01_volumen_transacciones_y_escala_datos]:** Análisis de cuentas críticas usando `CASE WHEN` en el `HAVING` para exclusión estricta de datos.
-*   **02_analisis_riesgo_y_auditoria_datos.sql]:** Reporte cruzado de flujo de efectivo por ciudad usando `CASE WHEN` en el `SELECT` para clasificación de columnas.
+*   **[02_analisis_riesgo_y_auditoria_datos.sql]:** Reporte cruzado de flujo de efectivo por ciudad usando `CASE WHEN` en el `SELECT` para clasificación de columnas.
 *   **[03_distribucion_flujo_efectivo_ciudades.sql]:** Consultas de control para validación y auditoría.
 
 ## 🛠️ Tecnologías Utilizadas
