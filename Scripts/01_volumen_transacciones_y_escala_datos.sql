@@ -20,6 +20,13 @@
 -- simple con COUNT(*) sobre lo que ya filtró el WHERE es suficiente.
 --
 --
+-- **Conclusión Comercial:** 
+-- El filtro de 80 transacciones resultó muy bajo para el volumen de la empresa, 
+-- listando las 7 ciudades registradas sin excepción. Como la ciudad con menos ventas (Ambato) 
+-- supera las 200 operaciones, este límite funciona para tareas académicas, 
+-- pero pierde utilidad práctica con datos reales 
+-- donde todas las regiones superan la meta por un amplio margen.
+--
 -- Nota de aprendizaje:
 -- Venir de ejercicios con datasets de 10-15 filas entrena el ojo
 -- para detectar errores mirando el resultado completo de un vistazo.
